@@ -1,0 +1,14 @@
+.selected-dev img{
+    border-radius: 50%;
+    width: 60px;
+}
+
+.cart-selected{
+    
+    background-color: #334756 !important;
+    border: 2px solid white;
+    border-radius:5px ;
+    margin: 15px;
+    
+    
+}

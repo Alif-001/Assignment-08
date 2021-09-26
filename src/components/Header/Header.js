@@ -5,7 +5,7 @@ const Header = () => {
     <div id="header" className="header-section">
       <nav className="navbar navbar-expand-lg   navbar-dark bg-dark">
         <div className="container-fluid">
-          <a className="navbar-brand fw-bold " href="#header">
+          <a className="navbar-brand fw-bold ms-3" href="#header">
             Dev
             <span className="text-dark bg-warning ms-1 rounded-1 px-1">
               hub
@@ -22,7 +22,7 @@ const Header = () => {
           >
             <span className="navbar-toggler-icon"></span>
           </button>
-          <div className="text-end">
+          <div className="text-end  ">
             <div
               className="collapse navbar-collapse ms-auto "
               id="navbarSupportedContent"
@@ -57,9 +57,9 @@ const Header = () => {
           </div>
         </div>
       </nav>
-      <div className="m-5">
+      <div className="m-5 text-white">
         <h1 className="p-4">
-          welcome to{" "}
+          Welcome to{" "}
           <span className="fw-bold">
             Dev
             <span className="text-dark bg-warning ms-1 rounded-1 px-2">

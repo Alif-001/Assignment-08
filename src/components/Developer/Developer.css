@@ -1,0 +1,24 @@
+.dev-img{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+.my-btn:hover{
+    background-color: #ffb414;
+    color: white;
+    transition: 1s;
+}
+
+body{
+    background-color: #082032;
+}
+.bad-color{
+    background:#334756;
+    color: white;
+}
+
+.border-r{
+    border-radius: 5px;
+}

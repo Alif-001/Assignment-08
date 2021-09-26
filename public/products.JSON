@@ -2,51 +2,52 @@
     {
         "key": "B2RuL8Yu",
         "age": "23",
-        "name": "Konrad Njord Winter",
-        "salary": "20000",
+        "name": "Daisy A. Cunningham",
+        "salary": 2000,
         "address":"Dhaka",
-      
+        "job":"App-developer",
+     
      
         "star": 3,
-        "starCount": 3245,
+        "starCount": 245,
        "img":"https://images.unsplash.com/photo-1544348817-5f2cf14b88c8?ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MTR8TU16dzlBZFRWbU18fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
     },
     {
         "key": "B01LZ85857GH",
         "age": "34",
-        "name": "Latheef Halil Fletcher",
-        "salary": "405645",
+        "name": "Chase H. Williams",
+        "salary": 4545,
         "address":"Dhaka" ,
    
-   
+        "job":"Web-developer",
         "star": 2,
-        "starCount": 2899,
+        "starCount": 299,
         "img":"https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MTV8TU16dzlBZFRWbU18fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
      
     },
     {
         "key": "B01557753QW",
         "age": "43",
-        "name": "Nicky Sadiq Jonkers",
-        "salary": "50000",
+        "name": "Donna P. Selzer",
+        "salary": 5000,
         "address": "Rajshahi",
       
-       
+        "job":"Web-developer",
         "star": 3,
-        "starCount": 3525,
+        "starCount": 355,
         "img":"https://images.unsplash.com/photo-1601412436009-d964bd02edbc?ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MTJ8TU16dzlBZFRWbU18fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
   
     },
     {
         "key": "B22r6ygD4MGY4",
         "age": "33",
-        "name": "Hajime Marina Vogel",
-        "salary": "20100",
+        "name": "Francisco A. Otero",
+        "salary": 2100,
         "address":"Rajshahi" ,
  
-
+        "job":"Web-developer",
         "star": 4,
-        "starCount": 4232,
+        "starCount": 422,
         "img":"https://images.unsplash.com/photo-1545167622-3a6ac756afa4?ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MTB8TU16dzlBZFRWbU18fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
       
     },
@@ -54,12 +55,12 @@
         "key": "B01Mcyuyxr18UZF5",
         "age": "31",
         "name": "Gunnarr Nolan Annema",
-        "salary": "12000",
+        "salary": 1200,
         "address": "Rajshahi",
      
- 
+        "job":"App-developer",
         "star": 4,
-        "starCount": 2457,
+        "starCount": 457,
         "img":"https://images.unsplash.com/photo-1488426862026-3ee34a7d66df?ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MTF8TU16dzlBZFRWbU18fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
     
     },
@@ -67,12 +68,12 @@
         "key": "B01DBwerGVB7K",
         "age": "21",
         "name": "Ismail Débora Larue",
-        "salary": "23000",
+        "salary": 2300,
         "address":"Khulna",
-       
+        "job":"Web-developer",
   
         "star": 4,
-        "starCount": 2777,
+        "starCount": 277,
         "img":"https://images.unsplash.com/photo-1552374196-c4e7ffc6e126?ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8OHxNTXp3OUFkVFZtTXx8ZW58MHx8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
         
     },
@@ -80,12 +81,12 @@
         "key": "e45y7B015WXL0C6",
         "age": "22",
         "name": "Lisbeth Léa Baumbach",
-        "salary": "20000",
+        "salary": 2000,
         "address":"Rajshahi" ,
      
-   
+        "job":"Web-developer",
         "star": 4,
-        "starCount": 2830,
+        "starCount": 830,
         "img":"https://images.unsplash.com/photo-1546820389-44d77e1f3b31?ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8OXxNTXp3OUFkVFZtTXx8ZW58MHx8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
     
     },
@@ -93,12 +94,12 @@
         "key": "Y4GZS9yiC",
         "age": "45",
         "name": "Ghada Rhianu Oelberg",
-        "salary": "50000",
+        "salary": 5000,
         "address": "Rajshahi",
-       
+        "job":"App-developer",
        
         "star": 3,
-        "starCount": 257,
+        "starCount": 57,
         "img":"https://images.unsplash.com/photo-1600481176431-47ad2ab2745d?ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8N3xNTXp3OUFkVFZtTXx8ZW58MHx8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
     
     },
@@ -106,12 +107,12 @@
         "key": "WERUUXJJG4OPD",
         "age": "32",
         "name": "Arianna Adelaide Singh",
-        "salary": "90000",
+        "salary": 9000,
         "address":"Khulna" ,
         
-       
+        "job":"Web-developer",
         "star": 3,
-        "starCount": 599,
+        "starCount": 99,
         "img":"https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8NXxNTXp3OUFkVFZtTXx8ZW58MHx8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
       
     },
@@ -119,25 +120,25 @@
         "key": "45678GHJE6Y5D",
         "age": "27",
         "name": "Lavinia Caius Kráľ",
-        "salary": "600000",
+        "salary": 6000,
         "address":"Dhaka" ,
        
-       
+        "job":"Web-developer",
         "star": 3,
-        "starCount": 4293,
+        "starCount": 429,
         "img":"https://images.unsplash.com/photo-1612979572692-f8a4cb3dce2b?ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8NnxNTXp3OUFkVFZtTXx8ZW58MHx8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
      
     },
     {
         "key": "B01J4JUY57G",
         "age": "37",
-        "name": "Feidlimid Quirinus Albani",
-        "salary": "20000",
+        "name": "Feidlimid Quirinus ",
+        "salary": 2000,
         "address": "Rajshahi",
        
-      
+        "job":"App-developer",
         "star": 4,
-        "starCount": 4646,
+        "starCount": 646,
         "img":"https://images.unsplash.com/photo-1549068106-b024baf5062d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8NHxNTXp3OUFkVFZtTXx8ZW58MHx8fHw%3D&auto=format&fit=crop&w=500&q=60"
     
     },
@@ -145,33 +146,33 @@
         "key": "HKHGK4ZG68A",
         "age": "51",
         "name": "Lyda Saveriu Gutiérrez",
-        "salary": "300000",
+        "salary": 3000,
         "address": "Khulna",
        
-       
+        "job":"App-developer",
         "star": 3,
-        "starCount": 2066,
+        "starCount": 666,
        "img":"https://images.unsplash.com/photo-1531427186611-ecfd6d936c79?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8M3xNTXp3OUFkVFZtTXx8ZW58MHx8fHw%3D&auto=format&fit=crop&w=500&q=60"
     },
     {
         "key": "UJGKGYYMO",
         "age": "30",
         "name": "Djehuti Kumara Natale",
-        "salary": "30000",
+        "salary": 3550,
         "address":"Dhaka" ,
-        
+        "job":"Web-developer",
         
         "star": 3,
-        "starCount": 3141,
+        "starCount": 141,
         "img":"https://images.unsplash.com/photo-1604695753685-20e756f4aa61?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MnxNTXp3OUFkVFZtTXx8ZW58MHx8fHw%3D&auto=format&fit=crop&w=500&q=60"
     },
     {
         "key": "85256X6J2RLY",
         "age": "23",
         "name": "Ron Conall Burakgazi",
-        "salary": "60000",
+        "salary": 6000,
         "address": "Khulna",
-       
+        "job":"App-developer",
         "star": 4,
         "starCount": 149,
        "img":"https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MXxNTXp3OUFkVFZtTXx8ZW58MHx8fHw%3D&auto=format&fit=crop&w=500&q=60"
@@ -181,11 +182,11 @@
         "key": "234TU7R5PG2",
         "age": "45",
         "name": "Saba Mirabella Peters",
-        "salary": "10000",
+        "salary": 1000,
         "address": "Dhaka",
-        
+        "job":"Web-developer",
         "star": 4,
-        "starCount": 1146,
+        "starCount": 146,
         "img": "https://cdn.pixabay.com/photo/2015/09/02/13/24/girl-919048__340.jpg"
       
     }
