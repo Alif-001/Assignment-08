@@ -9,3 +9,7 @@ in this project you can hire developers for your project.
 2. bootstrap
 
 3. fontawaesome
+
+4. vs code
+
+5. git
