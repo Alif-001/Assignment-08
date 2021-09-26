@@ -30,7 +30,7 @@ const Developer = (props) => {
                 className="btn btn-warning my-btn btn-xl px-5 m-auto"
                 onClick={() => props.handleAddToCart(props.developer)}
               >
-                {element}Click To Add
+                {element} Click To Add
               </button>
             </div>
           </div>
