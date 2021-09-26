@@ -7,7 +7,7 @@ const element = <FontAwesomeIcon icon={faShoppingCart} />;
 const Developer = (props) => {
   const { img, name, age, salary, address, job } = props.developer;
 
-  //   card
+  //   card section
   return (
     <div className="d-flex align-items-stretch ">
       <div className="col text-center  border border-2 border-white border-r">

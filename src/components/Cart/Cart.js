@@ -10,6 +10,8 @@ const Cart = (props) => {
   for (let dev of cart) {
     total = total + dev.salary;
   }
+
+  // cart section
   return (
     <div className="col card p-2 py-3 cart-dis">
       <h2>Total Developer Selected: {cart.length}</h2>
