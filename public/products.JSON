@@ -2,7 +2,7 @@
     {
         "key": "B2RuL8Yu",
         "age": "23",
-        "name": "Daisy A. Cunningham",
+        "name": "Daisy A. ",
         "salary": 2000,
         "address":"Dhaka",
         "job":"App-developer",
@@ -15,7 +15,7 @@
     {
         "key": "B01LZ85857GH",
         "age": "34",
-        "name": "Chase H. Williams",
+        "name": "Chase H. ",
         "salary": 4545,
         "address":"Dhaka" ,
    
@@ -28,7 +28,7 @@
     {
         "key": "B01557753QW",
         "age": "43",
-        "name": "Donna P. Selzer",
+        "name": "Donna P. ",
         "salary": 5000,
         "address": "Rajshahi",
       
@@ -41,7 +41,7 @@
     {
         "key": "B22r6ygD4MGY4",
         "age": "33",
-        "name": "Francisco A. Otero",
+        "name": "Francisco A.",
         "salary": 2100,
         "address":"Rajshahi" ,
  
@@ -54,7 +54,7 @@
     {
         "key": "B01Mcyuyxr18UZF5",
         "age": "31",
-        "name": "Gunnarr Nolan Annema",
+        "name": "Gunnar Nolan",
         "salary": 1200,
         "address": "Rajshahi",
      
@@ -67,7 +67,7 @@
     {
         "key": "B01DBwerGVB7K",
         "age": "21",
-        "name": "Ismail Débora Larue",
+        "name": "Ismail Debora ",
         "salary": 2300,
         "address":"Khulna",
         "job":"Web-developer",
@@ -80,7 +80,7 @@
     {
         "key": "e45y7B015WXL0C6",
         "age": "22",
-        "name": "Lisbeth Léa Baumbach",
+        "name": "Lisbeth Lea ",
         "salary": 2000,
         "address":"Rajshahi" ,
      
@@ -93,7 +93,7 @@
     {
         "key": "Y4GZS9yiC",
         "age": "45",
-        "name": "Ghada Rhianu Oelberg",
+        "name": "Ghada Rhianu ",
         "salary": 5000,
         "address": "Rajshahi",
         "job":"App-developer",
@@ -106,7 +106,7 @@
     {
         "key": "WERUUXJJG4OPD",
         "age": "32",
-        "name": "Arianna Adelaide Singh",
+        "name": "Arianna Singh",
         "salary": 9000,
         "address":"Khulna" ,
         
@@ -119,7 +119,7 @@
     {
         "key": "45678GHJE6Y5D",
         "age": "27",
-        "name": "Lavinia Caius Kráľ",
+        "name": "Lavinia Caius",
         "salary": 6000,
         "address":"Dhaka" ,
        
@@ -132,7 +132,7 @@
     {
         "key": "B01J4JUY57G",
         "age": "37",
-        "name": "Feidlimid Quirinus ",
+        "name": "Fread Quirinus ",
         "salary": 2000,
         "address": "Rajshahi",
        
@@ -145,7 +145,7 @@
     {
         "key": "HKHGK4ZG68A",
         "age": "51",
-        "name": "Lyda Saveriu Gutiérrez",
+        "name": "Lyda Saveriu ",
         "salary": 3000,
         "address": "Khulna",
        
@@ -157,7 +157,7 @@
     {
         "key": "UJGKGYYMO",
         "age": "30",
-        "name": "Djehuti Kumara Natale",
+        "name": "Kunal Kumara ",
         "salary": 3550,
         "address":"Dhaka" ,
         "job":"Web-developer",
@@ -169,7 +169,7 @@
     {
         "key": "85256X6J2RLY",
         "age": "23",
-        "name": "Ron Conall Burakgazi",
+        "name": "Ron Conall ",
         "salary": 6000,
         "address": "Khulna",
         "job":"App-developer",
@@ -181,7 +181,7 @@
     {
         "key": "234TU7R5PG2",
         "age": "45",
-        "name": "Saba Mirabella Peters",
+        "name": "Saba Peters",
         "salary": 1000,
         "address": "Dhaka",
         "job":"Web-developer",
