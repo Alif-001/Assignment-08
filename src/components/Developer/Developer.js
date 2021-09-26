@@ -1,9 +1,9 @@
 import React from "react";
 import "./Developer.css";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import { faCartPlus } from "@fortawesome/free-solid-svg-icons";
+import { faPlusSquare } from "@fortawesome/free-solid-svg-icons";
 
-const element = <FontAwesomeIcon icon={faCartPlus} />;
+const element = <FontAwesomeIcon icon={faPlusSquare} />;
 const Developer = (props) => {
   const { img, name, age, salary, address, job } = props.developer;
 
