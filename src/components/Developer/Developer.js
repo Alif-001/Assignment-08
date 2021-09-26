@@ -1,9 +1,9 @@
 import React from "react";
 import "./Developer.css";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import { faShoppingCart } from "@fortawesome/free-solid-svg-icons";
+import { faCartPlus, faShoppingCart } from "@fortawesome/free-solid-svg-icons";
 
-const element = <FontAwesomeIcon icon={faShoppingCart} />;
+const element = <FontAwesomeIcon icon={faCartPlus} />;
 const Developer = (props) => {
   const { img, name, age, salary, address, job } = props.developer;
 
@@ -30,7 +30,7 @@ const Developer = (props) => {
                 className="btn btn-warning my-btn btn-xl px-5 m-auto"
                 onClick={() => props.handleAddToCart(props.developer)}
               >
-                {element} Add
+                {element}Click To Add
               </button>
             </div>
           </div>
