@@ -1,6 +1,6 @@
-# Welcome to Dev hub
+# Welcome to **Dev hub**
 
-. in this project you can hire developers for your project. [link ]("https://assignment-08.netlify.app/")
+. in this project you can hire developers for your project. link : [https://assignment-08.netlify.app/](https://assignment-08.netlify.app/)
 
 . this website will show the total cost of hiring developers.
 
@@ -20,4 +20,4 @@
 
 ### Deployed on netlify
 
-[link ]("https://assignment-08.netlify.app/")
+link: [https://assignment-08.netlify.app/ ](https://assignment-08.netlify.app/)
