@@ -19,7 +19,7 @@ const Developer = (props) => {
           />
           <div className="card-body">
             <h4 className="card-title fw-bold">{name}</h4>
-            <h5>Job: {job}</h5>
+            <h5>Profession: {job}</h5>
             <p className="card-text">Age: {age}</p>
             <h6>Salary: ${salary}</h6>
             <p></p>
